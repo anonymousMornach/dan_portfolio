@@ -49,14 +49,15 @@ section{
 }
 .intro h2{
 	font-family:"Zeyada", sans-serif;
-	font-size:5rem;
+	font-size:8rem;
 }
 .intro p{
 	font-family:"Tilt Neon", sans-serif;
-	font-size:3rem;
+	font-size:5rem;
 }
 .intro em{
 	font-family:"Zeyada", sans-serif;
+	font-size:3rem;
 }
 footer{
 	background-color:white;
