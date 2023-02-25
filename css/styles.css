@@ -5,9 +5,8 @@
 }
 
 body{
-	background:black url("../images/background7.png") no-repeat;
+	background:rgb(215, 242, 255) url("../images/background7.png") no-repeat;
 	background-size: cover;
-	color:rgb(215, 242, 255);
 }
 
 header{
