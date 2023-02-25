@@ -33,7 +33,7 @@ nav a{
 	text-decoration:none;	
 	color:black;
 	font-family:"Tilt Neon", sans-serif;
-	font-size:4rem;
+	font-size:2rem;
 }
 section{
 	min-height:100vh;
@@ -50,11 +50,11 @@ section{
 }
 .intro h2{
 	font-family:"Zeyada", sans-serif;
-	font-size:8rem;
+	font-size:6rem;
 }
 .intro p{
 	font-family:"Tilt Neon", sans-serif;
-	font-size:5rem;
+	font-size:4rem;
 }
 .intro em{
 	font-family:"Zeyada", sans-serif;
