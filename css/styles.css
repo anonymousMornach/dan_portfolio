@@ -7,7 +7,7 @@
 body{
 	background:black url("../images/background7.png") no-repeat;
 	background-size: cover;
-	color:black;
+	color:rgb(215, 242, 255);
 }
 
 header{
@@ -33,6 +33,7 @@ nav a{
 	text-decoration:none;	
 	color:black;
 	font-family:"Tilt Neon", sans-serif;
+	font-size:4rem;
 }
 section{
 	min-height:100vh;
