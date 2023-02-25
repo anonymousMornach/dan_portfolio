@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background:black url("../images/background7.png") no-repeat;
+	background-size: cover;
+	color:black;
+}
+
+header{
+	position:fixed;
+	right:0;
+	left:0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height:15vh;
+	padding: 10px;
+	background-color:rgba(255, 255, 255, 0.2);
+}
+nav ul{
+	display:flex;
+	justify-content:space-between;
+	list-style: none;
+}
+nav li{
+	margin-right: 10px;
+}
+nav a{
+	text-decoration:none;	
+	color:black;
+	font-family:"Tilt Neon", sans-serif;
+}
+section{
+	min-height:100vh;
+}
+.intro{
+	text-align:center;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	align-content:center;
+	padding: 20px;
+	font-size:30px;
+	color:black;
+}
+.intro h2{
+	font-family:"Zeyada", sans-serif;
+	font-size:5rem;
+}
+.intro p{
+	font-family:"Tilt Neon", sans-serif;
+	font-size:3rem;
+}
+.intro em{
+	font-family:"Zeyada", sans-serif;
+}
+footer{
+	background-color:white;
+	color:black;
+	text-align: center;
+}
